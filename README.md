@@ -28,3 +28,12 @@ When these events occur, the service sends a corresponding message to a designat
 ### Status
 
 This project is currently in early development and focuses on establishing the initial Twitch WebSocket connection and Discord message delivery system.  
+
+### Feedback and Mentorship
+
+I’m actively seeking feedback on this project and welcome any suggestions or constructive criticism to help improve my software engineering skills.  
+If you have experience in software development or related fields and would like to share insights or advice, please feel free to reach out.
+
+Additionally, I am looking for mentors to support my learning journey in software engineering and infrastructure.  
+If you are interested in mentoring, guiding, or collaborating with someone eager to grow and develop professionally, I would be grateful to connect.  
+You can contact me through GitHub or via the project discussion channels.
